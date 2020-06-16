@@ -4,10 +4,10 @@ class Database{
 	
 	private $connection;
 	
-	private $_host = 'sql303.epizy.com';
-    private $_username = 'epiz_25184301';
-    private $_password = '2feekElIKf';
-    private $_database = 'epiz_25184301_oop';
+	private $_host = '';
+    private $_username = '';
+    private $_password = '';
+    private $_database = '';
  
 	function __construct()
 	{
