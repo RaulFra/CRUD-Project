@@ -1,0 +1,2 @@
+[25-Feb-2020 18:34:50] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[25-Feb-2020 18:35:08] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1

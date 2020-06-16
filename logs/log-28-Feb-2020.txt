@@ -1,0 +1,13 @@
+[28-Feb-2020 17:21:06] [localhost/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[28-Feb-2020 17:21:09] [localhost/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[28-Feb-2020 17:24:21] [localhost/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[28-Feb-2020 17:24:54] [localhost/proiectoop/post_inregistrare.php] : [INFO] - Success inregistrare Ip utilizator: ::1
+[28-Feb-2020 17:26:31] [localhost/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[28-Feb-2020 17:27:27] [localhost/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[28-Feb-2020 17:42:13] [localhost/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[28-Feb-2020 19:13:32] [localhost/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[28-Feb-2020 13:36:38] [raulfra.rf.gd/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: 86.120.168.158
+[28-Feb-2020 13:56:46] [raulfra.rf.gd/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: 86.120.168.158
+[28-Feb-2020 13:56:48] [raulfra.rf.gd/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: 86.120.168.158
+[28-Feb-2020 13:59:32] [raulfra.rf.gd/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: 86.120.168.158
+[28-Feb-2020 13:59:50] [raulfra.rf.gd/proiectoop//inregistrare.php] : [INFO] - Ip utilizator: 86.120.168.158

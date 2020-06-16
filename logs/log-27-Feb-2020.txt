@@ -1,0 +1,43 @@
+[27-Feb-2020 17:19:16] [localhost/cursooP/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 17:19:18] [localhost/cursoop/proiectoop/post_inregistrare.php] : [ERROR] - Eroare inregistrare Ip utilizator: ::1
+[27-Feb-2020 17:19:28] [localhost/cursooP/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 17:20:07] [localhost/cursooP/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 17:20:47] [localhost/cursooP/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 17:30:42] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:00:55] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:01:16] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:01:42] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:01:58] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:02:17] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:02:19] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:02:20] [localhost/cursoop/proiectoop/post_inregistrare.php] : [ERROR] - Eroare inregistrare Ip utilizator: ::1
+[27-Feb-2020 18:07:20] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:17:31] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:20:30] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:22:10] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:22:25] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:23:16] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:27:25] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:27:49] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:27:51] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:27:52] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:27:53] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:27:53] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:27:53] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:27:54] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:27:55] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:28:20] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:28:32] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:28:46] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:29:12] [localhost/cursoop/proiectoop/post_inregistrare.php] : [INFO] - Success inregistrare Ip utilizator: ::1
+[27-Feb-2020 18:30:42] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:30:45] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:31:03] [localhost/cursoop/proiectoop/post_inregistrare.php] : [INFO] - Success inregistrare Ip utilizator: ::1
+[27-Feb-2020 18:32:38] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:32:53] [localhost/cursoop/proiectoop/post_inregistrare.php] : [INFO] - Success inregistrare Ip utilizator: ::1
+[27-Feb-2020 18:35:13] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:35:16] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:35:31] [localhost/cursoop/proiectoop/post_inregistrare.php] : [ERROR] - Eroare inregistrare Ip utilizator: ::1
+[27-Feb-2020 18:35:31] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:36:12] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[27-Feb-2020 18:38:17] [localhost/cursoop/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
